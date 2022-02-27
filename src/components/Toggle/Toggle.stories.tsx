@@ -1,5 +1,4 @@
 import React from 'react';
-import "react-toggle/style.css" // for ES6 modules
 
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 

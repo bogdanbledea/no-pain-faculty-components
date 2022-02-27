@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactToggle from 'react-toggle';
+import "react-toggle/style.css" // for ES6 modules
 
 const Toggle = () => {
   return(
